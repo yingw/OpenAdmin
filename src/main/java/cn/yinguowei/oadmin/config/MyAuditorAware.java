@@ -1,4 +1,4 @@
-package cn.yinguowei.oa.config;
+package cn.yinguowei.oadmin.config;
 
 import org.springframework.data.domain.AuditorAware;
 //import org.springframework.security.core.context.SecurityContext;

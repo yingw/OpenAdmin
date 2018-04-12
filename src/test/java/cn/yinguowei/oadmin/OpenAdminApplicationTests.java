@@ -1,4 +1,4 @@
-package cn.yinguowei.oa;
+package cn.yinguowei.oadmin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

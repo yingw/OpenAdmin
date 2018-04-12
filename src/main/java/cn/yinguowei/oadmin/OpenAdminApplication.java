@@ -1,4 +1,4 @@
-package cn.yinguowei.oa;
+package cn.yinguowei.oadmin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

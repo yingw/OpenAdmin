@@ -1,4 +1,4 @@
-package cn.yinguowei.oa.entity.support;
+package cn.yinguowei.oadmin.entity.support;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;

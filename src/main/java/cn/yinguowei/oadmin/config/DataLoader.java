@@ -1,7 +1,7 @@
-package cn.yinguowei.oa.config;
+package cn.yinguowei.oadmin.config;
 
-import cn.yinguowei.oa.entity.User;
-import cn.yinguowei.oa.repository.UserRepository;
+import cn.yinguowei.oadmin.entity.User;
+import cn.yinguowei.oadmin.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

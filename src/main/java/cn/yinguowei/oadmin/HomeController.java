@@ -1,4 +1,4 @@
-package cn.yinguowei.oa;
+package cn.yinguowei.oadmin;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
