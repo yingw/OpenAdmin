@@ -1,6 +1,6 @@
-package cn.yinguowei.openadmin.repository;
+package cn.yinguowei.oa.repository;
 
-import cn.yinguowei.openadmin.entity.User;
+import cn.yinguowei.oa.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

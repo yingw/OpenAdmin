@@ -1,7 +1,7 @@
-package cn.yinguowei.openadmin.service;
+package cn.yinguowei.oa.service;
 
-import cn.yinguowei.openadmin.entity.User;
-import cn.yinguowei.openadmin.repository.UserRepository;
+import cn.yinguowei.oa.entity.User;
+import cn.yinguowei.oa.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cache.annotation.*;

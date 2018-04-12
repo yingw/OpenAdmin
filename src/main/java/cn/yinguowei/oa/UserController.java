@@ -1,12 +1,10 @@
-package cn.yinguowei.openadmin;
+package cn.yinguowei.oa;
 
-import cn.yinguowei.openadmin.entity.User;
-import cn.yinguowei.openadmin.repository.UserRepository;
-import cn.yinguowei.openadmin.service.UserService;
+import cn.yinguowei.oa.entity.User;
+import cn.yinguowei.oa.repository.UserRepository;
+import cn.yinguowei.oa.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.WebDataBinder;
@@ -15,7 +13,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.validation.Valid;
 import java.security.Principal;
-import java.util.HashSet;
 import java.util.List;
 
 /**

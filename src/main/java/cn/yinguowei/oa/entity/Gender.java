@@ -1,4 +1,4 @@
-package cn.yinguowei.openadmin.entity;
+package cn.yinguowei.oa.entity;
 
 import java.util.Arrays;
 import java.util.Collections;

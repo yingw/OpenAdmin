@@ -1,6 +1,6 @@
-package cn.yinguowei.openadmin.entity;
+package cn.yinguowei.oa.entity;
 
-import cn.yinguowei.openadmin.entity.support.AbstractAuditingEntity;
+import cn.yinguowei.oa.entity.support.AbstractAuditingEntity;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
