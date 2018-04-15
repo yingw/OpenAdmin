@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * 创建 by 殷国伟 于 2018/3/5.
+ * @author yinguowei 2018/3/5
  */
 
 public enum Gender {

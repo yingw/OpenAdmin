@@ -16,14 +16,13 @@ import java.util.Random;
 @Entity
 @EntityListeners(AuditingEntityListener.class)
 @Data
-@RequiredArgsConstructor
 @EqualsAndHashCode(callSuper = false)
 @NoArgsConstructor
+@RequiredArgsConstructor
 public class User extends AbstractAuditingEntity {
     private static final Random RANDOM = new Random();
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
 
     @NonNull @NotNull @NotEmpty @Column(unique = true)
